@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### Fixed
+
+- Fixed Korean initial consonants overlapping and cursor drift in WezTerm on macOS
+
 ## [18.12.6] - 2026-10-21
 
 ### Changed
